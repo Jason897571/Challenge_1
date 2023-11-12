@@ -2,6 +2,10 @@
 
 ## Link to website: https://jason897571.github.io/Challenge_1/
 
+
+## Sreenshot for website below:
+![alt text](/assets/images/digital-marketing-meeting.jpg)
+
 ## Search Engine Optimization
 
 ### The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.

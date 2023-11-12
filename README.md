@@ -1,6 +1,8 @@
-# Horiseon Website
+# Challenge_1 Horiseon Website
 
-## Link to website: https://jason897571.github.io/Challenge_1/
+## Original Repo Link(Start Point): https://github.com/coding-boot-camp/urban-octo-telegram
+## My Repo Link: https://github.com/Jason897571/Challenge_1
+## Link to My Website: https://jason897571.github.io/Challenge_1/
 
 
 ## Sreenshot for website below:
